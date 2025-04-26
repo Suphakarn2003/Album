@@ -1,0 +1,6 @@
+
+  .fixed-size-img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover; /* ตัด/ขยายภาพให้พอดีโดยไม่เสียสัดส่วน */
+  }
